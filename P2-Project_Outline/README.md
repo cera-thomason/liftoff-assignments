@@ -7,12 +7,14 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Users will be able to save their favorite recipes to the app. Then, they can choose which recipes they would like to make and the app will add those ingredients to their grocery list. Finally, users will be able to edit their grocery list and add other, non-recipe ingredients to their shopping list, such as frozen meals or fruits and veggies.
 ### Features
-Include Features here
+1. User login:  Users will be able to create accounts and log in to the application. Each user will be able to save recipes to their account and keep an active shopping list.
+2. Recipes: Users will be able to create recipes (manually, bonus: import from website, bonus: convert from image), edit recipes, delete recipes, bonus: favorite recipes.
+3. Grocery list: Users will be able to add ingredients from their recipes to an active grocery list, edit the items, clear the list, and add non-recipe ingredients to 
 ### Technologies
-Include Technologies here
+Have not discussed. Can easily use Java/Spring, or even better, Angular UI with Spring API, or we can teach ourselves a new language such as React for the UI.
 ### What I'll Have to Learn
-Include what you will need to learn here
+??? (have not discussed technologies so...)
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/2xjX74Ua/grocery-cart
