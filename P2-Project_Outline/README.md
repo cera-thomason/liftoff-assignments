@@ -12,8 +12,9 @@ Users will be able to save their favorite recipes to the app. Then, they can cho
 1. User login:  Users will be able to create accounts and log in to the application. Each user will be able to save recipes to their account and keep an active shopping list.
 2. Recipes: Users will be able to create recipes (manually, bonus: import from website, bonus: convert from image), edit recipes, delete recipes, bonus: favorite recipes.
 3. Grocery list: Users will be able to add ingredients from their recipes to an active grocery list, edit the items, clear the list, and add non-recipe ingredients to 
+4. Ingredients: MAYBE? This would be needed to categorize ingredients or add dietary restrictions. May not be required for the simplest version of the app (AKA no categories or other ingredient attributes)
 ### Technologies
-Have not discussed. Can easily use Java/Spring, or even better, Angular UI with Spring API, or we can teach ourselves a new language such as React for the UI.
+Have not discussed with group. Can easily use Java/Spring, or even better, Angular UI with Spring API, or we can teach ourselves a new language such as React for the UI.
 ### What I'll Have to Learn
 ??? (have not discussed technologies so...)
 ### Project Tracker
