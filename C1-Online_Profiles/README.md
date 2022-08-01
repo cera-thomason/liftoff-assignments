@@ -7,7 +7,7 @@ For this assignment you will need to upload your resume and provide links to you
 ## Submission Instructions
  
 ### GitHub
-https://github.com/cetxw3
+https://github.com/cera-thomason
  
 ### LinkedIn
 https://www.linkedin.com/in/cera-thomason-05b43298/
