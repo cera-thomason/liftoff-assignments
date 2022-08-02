@@ -14,8 +14,10 @@ Users will be able to save their favorite recipes to the app. Then, they can cho
 3. Grocery list: Users will be able to add ingredients from their recipes to an active grocery list, edit the items, clear the list, and add non-recipe ingredients to 
 4. Ingredients: MAYBE? This would be needed to categorize ingredients or add dietary restrictions. May not be required for the simplest version of the app (AKA no categories or other ingredient attributes)
 ### Technologies
-Have not discussed with group. Can easily use Java/Spring, or even better, Angular UI with Spring API, or we can teach ourselves a new language such as React for the UI.
+- AngularJS UI
+- Spring API
+- SQL database
 ### What I'll Have to Learn
-??? (have not discussed technologies so...)
+Connecting UI to API
 ### Project Tracker
 https://trello.com/b/2xjX74Ua/grocery-cart
